@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Muhammad Awais Malik
+twitter_username: owaismalik_1
+name: Muhammad Awais Malik
 
 # Build settings
 markdown: kramdown
@@ -9,124 +9,82 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+ - title: Linkedin
+   url: https://www.linkedin.com/in/immuhammadawais/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
-
+   url: https://github.com/awaismk
+   
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
+ - Linux
+ - AWS
+ - DevOps (Git, Docker, Kubernetes, Jenkins, Ansible, Terraform)
  - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
  - SQL
  - REST
- - Technical Architecture
- - Machine learning
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+ - Windows Server Administration
+ - Technical Support
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: DevOps/Cloud Operations Engineer
+   start: 2018
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+   employer: Crossover
+   description: Administering and managing Linux and Windows based Servers for various software products. <br/> Managing Cloud platforms (AWS, Azure) for users and assigning use-case policies. 
+   <br/> Providing IT Operations support and solving infrastructure and IT access issues. <br/> Monitoring products actively using Nagios, Zabbix, Kibana and taking quick actions through PagerDuty. 
+   <br/> Using DevOps tools Docker, Kubernetes, Ansible, Jenkins, Git for CICD operations. <br/> Providing infrastructure support and solving customer tickets related to product infrastructure issues.
+ - title: Network Engineer
    start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   end: 2018
+   employer: Nayatel
+   description: Configuration and Troubleshooting of Company's WAN infrastructure issues including PPPOE and IPOE, as well as VPN internet services. <br/> 
+   Understanding of OSPF, BGP, ISIS, MPLS protocols, Providing Support for Multicast Channels and IPOE TV programs using IGMP, Providing technical support for level II Complaints of Access Layer. <br/>
+   Installation and Configurations of new customers as per assigned plan. <br/> Testing of any new core related package and equipment. <br/> 
+   Strong hands-on experience implementing and troubleshooting Cisco networking equipment, protocols, and features e.g. Cisco and Juniper routers, Firewalls, routers, switches, LAN/WLAN issues. <br/> 
+   Knowledge and troubleshooting of Customer LAN side issues, as well as Company end problems including Optical issues as well as Core ring Traffic issues.
+ - title: Junior Network Admin
+   start: 2015
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Techno Ed Pvt Ltd.
+   description: Installing, configuring, maintaining and upgrading corporate office's networks and in house servers, Updating company routers and switches for Certification labs, and integrating new server hardware and applications.
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 2015
+   subject: Telecom Engineering (Networks and Digital Communications)
+   school: COMSATS University Islamabad
+   cgpa: 3.6 (Bronze Medalist)
+   
+#List of Certifications
+Certifications:
+ - <strong>CCNA</strong> (Cisco)
+ - <strong>DevOps Essentials</strong> (LinuxAcademy)
+ - <strong>Kubernetes Essentials</strong> (LinuxAcademy)
+ - <strong>DevOps Beginner to Pro</strong> (Dice Analytics)
 
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
-
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
-
-intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
-
+Intro: |
+  I am an IT Engineer with DevOps and Technical Support as my field of experience and interest. I have fair knowledge of the essentials of working in organizations with my practical work experience of 5 years.<br/> 
+  In a typical day of work, I deal with Customer requests, handle technical queries, and manage/monitor infrastructure. 
+  With exceptional communication, listening and interpersonal skills, my self confidence, innovative approach and quick adaptability to changing processes and trends have been my biggest assets. 
+  I am a quick learner and can relate to people from all walks of life. I value productivity and work with result-oriented techniques that ensure maximum throughput. 
+  My workplace goal is to transit my enthusiasm and the ability to work within a team and promote the spirit of team work among the members.<br/><br/>
+  
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+    <h4>Following points describe technical skill set attained during my professional career:</h4>
+    <br/>1. Hands on DevOps Skills e.g. (Containerization: Docker), (Container Orchestration: Docker Swarm, Kubernetes), (Cloud Services: AWS( ECS, ECR, EC2, VPC, ELB, Route53, S3, EBS, IAM), Azure), (Platform: Docker & Linux), (IaC: Terraform), (Scripting: Python , Bash), (CI/CD: Jenkins), (Version Control: Git) 
+    <br/>2. Strong knowledge of Microsoft, desktop and Mobile Internet support.
+    <br/>3. Programming Skills in C, Java.
+    <br/>4. Working knowledge of SQL, and practical implementation in Database administration.
+    <br/>5. Front End Web Development skills and experience with HTML, CSS, JAVASCRIPT
+    <br/>6. Advanced Manual and Automation software testing skills using Selenium.
+    <br/>7. Management and Administration of Atlassian Tools (Jira, Confluence instances).
+    <br/>8. Working on Production AWS instances, Docker containers, MSSQL/MySQL/ORACLE Databases on daily basis.
+    <br/>9. Knowledge and troubleshooting of TCP/IP, LAN/WAN, DHCP Server, NAT, VPN.
+    <br/>10. Working with Application protocols TELNET, FTP, HTTP, SMTP, POP3, SNMP, DNS, PING.
+    <br/>11. Hands on Experience with Windows Server 2016, Sharepoint.
+    <br/>12. Hands on work on Active Directory, DNS, DHCP, Hyper-V , IIS, Exchange.
+    <br/>13. Experience on Microsoft Cloud Solution Azure, and hands on experience using AWS.
+    <br/>14. Working experience with network protocols including ISIS, OSPF, MPLS etc.
