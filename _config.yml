@@ -27,7 +27,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: DevOps/Cloud Operations Engineer
+ - title: DevOps Engineer
    start: 2018
    end: Ongoing
    employer: Crossover
@@ -37,7 +37,7 @@ roles:
    end: 2018
    employer: Nayatel
    description: Configuration and Troubleshooting of Company's WAN infrastructure issues including PPPOE and IPOE, as well as VPN internet services. <br/> Understanding of OSPF, BGP, ISIS, MPLS protocols, Providing Support for Multicast Channels and IPOE TV programs using IGMP, Providing technical support for level II Complaints of Access Layer. <br/> Installation and Configurations of new customers as per assigned plan. <br/> Testing of any new core related package and equipment. <br/> Strong hands-on experience implementing and troubleshooting Cisco networking equipment, protocols, and features e.g. Cisco and Juniper routers, Firewalls, routers, switches, LAN/WLAN issues. <br/> Knowledge and troubleshooting of Customer LAN side issues, as well as Company end problems including Optical issues as well as Core ring Traffic issues.
- - title: Junior Network Admin
+ - title: Network Admin
    start: 2015
    end: 2016
    employer: Techno Ed Pvt Ltd.
@@ -49,16 +49,8 @@ education:
    date: 2015
    subject: Telecom Engineering (Networks and Digital Communications)
    school: COMSATS University Islamabad
-   cgpa: 3.6 (Bronze Medalist)
-   
-#List of Certifications
-Certifications:
- - <strong>CCNA</strong> (Cisco)
- - <strong>DevOps Essentials</strong> (LinuxAcademy)
- - <strong>Kubernetes Essentials</strong> (LinuxAcademy)
- - <strong>DevOps Beginner to Pro</strong> (Dice Analytics)
 
-Intro: |
+intro: |
   I am an IT Engineer with DevOps and Technical Support as my field of experience and interest. I have fair knowledge of the essentials of working in organizations with my practical work experience of 5 years.<br/> 
   In a typical day of work, I deal with Customer requests, handle technical queries, and manage/monitor infrastructure. 
   With exceptional communication, listening and interpersonal skills, my self confidence, innovative approach and quick adaptability to changing processes and trends have been my biggest assets. 
@@ -67,7 +59,7 @@ Intro: |
   
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-    <h4>Following points describe technical skill set attained during my professional career:</h4>
+    Following points describe technical skill set attained during my professional career:
     <br/>1. Hands on DevOps Skills e.g. (Containerization: Docker), (Container Orchestration: Docker Swarm, Kubernetes), (Cloud Services: AWS( ECS, ECR, EC2, VPC, ELB, Route53, S3, EBS, IAM), Azure), (Platform: Docker & Linux), (IaC: Terraform), (Scripting: Python , Bash), (CI/CD: Jenkins), (Version Control: Git) 
     <br/>2. Strong knowledge of Microsoft, desktop and Mobile Internet support.
     <br/>3. Programming Skills in C, Java.
