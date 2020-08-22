@@ -31,18 +31,12 @@ roles:
    start: 2018
    end: Ongoing
    employer: Crossover
-   description: Administering and managing Linux and Windows based Servers for various software products. <br/> Managing Cloud platforms (AWS, Azure) for users and assigning use-case policies. 
-   <br/> Providing IT Operations support and solving infrastructure and IT access issues. <br/> Monitoring products actively using Nagios, Zabbix, Kibana and taking quick actions through PagerDuty. 
-   <br/> Using DevOps tools Docker, Kubernetes, Ansible, Jenkins, Git for CICD operations. <br/> Providing infrastructure support and solving customer tickets related to product infrastructure issues.
+   description: Administering and managing Linux and Windows based Servers for various software products. <br/> Managing Cloud platforms (AWS, Azure) for users and assigning use-case policies. <br/> Providing IT Operations support and solving infrastructure and IT access issues. <br/> Monitoring products actively using Nagios, Zabbix, Kibana and taking quick actions through PagerDuty. <br/> Using DevOps tools Docker, Kubernetes, Ansible, Jenkins, Git for CICD operations. <br/> Providing infrastructure support and solving customer tickets related to product infrastructure issues.
  - title: Network Engineer
    start: 2016
    end: 2018
    employer: Nayatel
-   description: Configuration and Troubleshooting of Company's WAN infrastructure issues including PPPOE and IPOE, as well as VPN internet services. <br/> 
-   Understanding of OSPF, BGP, ISIS, MPLS protocols, Providing Support for Multicast Channels and IPOE TV programs using IGMP, Providing technical support for level II Complaints of Access Layer. <br/>
-   Installation and Configurations of new customers as per assigned plan. <br/> Testing of any new core related package and equipment. <br/> 
-   Strong hands-on experience implementing and troubleshooting Cisco networking equipment, protocols, and features e.g. Cisco and Juniper routers, Firewalls, routers, switches, LAN/WLAN issues. <br/> 
-   Knowledge and troubleshooting of Customer LAN side issues, as well as Company end problems including Optical issues as well as Core ring Traffic issues.
+   description: Configuration and Troubleshooting of Company's WAN infrastructure issues including PPPOE and IPOE, as well as VPN internet services. <br/> Understanding of OSPF, BGP, ISIS, MPLS protocols, Providing Support for Multicast Channels and IPOE TV programs using IGMP, Providing technical support for level II Complaints of Access Layer. <br/> Installation and Configurations of new customers as per assigned plan. <br/> Testing of any new core related package and equipment. <br/> Strong hands-on experience implementing and troubleshooting Cisco networking equipment, protocols, and features e.g. Cisco and Juniper routers, Firewalls, routers, switches, LAN/WLAN issues. <br/> Knowledge and troubleshooting of Customer LAN side issues, as well as Company end problems including Optical issues as well as Core ring Traffic issues.
  - title: Junior Network Admin
    start: 2015
    end: 2016
